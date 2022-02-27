@@ -21,3 +21,7 @@ Following links were used for the same:
   https://www.iapt.org.in/
   https://www.iapt.org.in/exams/nse/nsep.html
   https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/
+
+Made by:
+  Paras Bedi
+  Lakhan Dharamvir Gupta
