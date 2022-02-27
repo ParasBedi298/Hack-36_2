@@ -23,5 +23,5 @@ Following links were used for the same:
   https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/
 
 Made by:
-  Paras Bedi
-  Lakhan Dharamvir Gupta
+  1.Paras Bedi
+  2.Lakhan Dharamvir Gupta
